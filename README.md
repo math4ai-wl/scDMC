@@ -41,7 +41,7 @@ Note: for GPU usage, please install the appropriate PyTorch build for your CUDA 
 
 ---
 
-## Quick Start (Demo with Muraro)
+## Quick Start
 
 We provide an example dataset: `dataset/muraro.h5ad`.
 
